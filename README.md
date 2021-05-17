@@ -1,7 +1,7 @@
 # Sales_Summary
 Sales Summary project from the Wide-World-Importers-Release dataset.
 
-1. Databases to be selected:
+1. Tables to be selected:
 	Customer,
 	City,
 	Date,
